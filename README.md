@@ -2,7 +2,6 @@
 
 ### An experienced Html developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idk-code404&label=Profile views&color=0e75b6&style=flat" alt="idk-code404" /> </p>
 
 - 📫 How to reach me **corey_gooding@outlook.com**
 
