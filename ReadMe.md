@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Corey James</h1>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=idk-code404&label=Profile%20views&color=0e75b6&style=flat" alt="idk-code404" /> </p>
-  </div><h3 align="left">Languages and Tools:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idk-code404&label=Profile%20views&color=0e75b6&style=flat" alt="idk-code404" /> </p>
+</div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
