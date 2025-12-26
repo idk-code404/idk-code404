@@ -27,6 +27,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=idk-code404&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=idk-code404&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=idk-code404&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=idk-code404&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idk-code404&theme=2077" height="180em" />
 </div>
